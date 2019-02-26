@@ -76,7 +76,7 @@ local:
 ```
 
 ```diff
-lab08ld201:/srv/formulas/stack_mod # diff /usr/lib/python2.7/site-packages/salt/modules/config.py _modules/config.py
+lab08ld201:/srv/formulas/stack_mod # diff /usr/lib/python2.7/site-packages/salt/modules/config.py /var/cache/salt/minion/extmods/modules/config.py
 216a217
 >
 218c219
